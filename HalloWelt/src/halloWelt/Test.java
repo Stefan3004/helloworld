@@ -6,6 +6,7 @@ public class Test {
 		String a = "HAlloWelt";
 		int b = 7;
 		System.out.println(a +" "+b);
+		int c = 1;
 	}
 
 }
